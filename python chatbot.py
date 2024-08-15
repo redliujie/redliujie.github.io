@@ -1,1 +1,1 @@
-python chatbot.py
+pip install openai
