@@ -1,7 +1,7 @@
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = 'your-api-key'
+openai.api_key = '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'
 
 def chat_with_bot(prompt):
     try:
